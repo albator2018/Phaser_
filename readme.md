@@ -2,9 +2,6 @@ Phaser Game Developppement [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 IMPORTANT LINKS in <a href="https://twitter.com/phaser_">PHASER_</a> WORLD
 
-via some links in discussions on slack and html5gamedevs
-https://docs.google.com/spreadsheets/d/1uOpbpUr8uHUJmn6V0I9P02FcLX0pTHOIBb4vDkhkz-c/edit?usp=sharing
-
 via google
 http://spriters-resource.com/	(ressources for building games)
 http://opengameart.org/		(ressources for building games)
