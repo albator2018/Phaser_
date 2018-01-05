@@ -1,6 +1,6 @@
 Phaser Game Developppement [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-IMPORTANT LINKS in PHASER_ WORLD
+IMPORTANT LINKS in <a href="https://twitter.com/phaser_">PHASER_</a> WORLD
 
 via some links in discussions on slack and html5gamedevs
 https://docs.google.com/spreadsheets/d/1uOpbpUr8uHUJmn6V0I9P02FcLX0pTHOIBb4vDkhkz-c/edit?usp=sharing
