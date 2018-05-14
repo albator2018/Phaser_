@@ -2,62 +2,27 @@ Phaser Game Developppement [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 IMPORTANT LINKS in <a href="https://twitter.com/phaser_">PHASER_</a> WORLD
 
-via google
-http://spriters-resource.com/	(ressources for building games)
-http://opengameart.org/		(ressources for building games)
+- www.Armorgames.com
+- www.Gamejolt.com
+- www.Indiedb.com
+- www.Indiegala.com
+- www.Itch.io
+- www.Kongregate.com
+- www.Likemindedd.com
+- www.Store.Steampowered.com (cost: 99€)
+- www.Y8.com
 
-via livecodingtv/killroy gamejam
-http://itch.io/			(platteform)
+✓ Sites for funding
+- http://Angel.co
 
-via phaser iso plugin
-http://pixeljoint.com/		(ressources for building games)
-
-via phaser's slack and livecodingtv
-http://ludumdare.com/		(games jams)
-http://www.freesfx.co.uk/	(ressources for building games)
-
-via phaser.io
-https://gamedevacademy.org/make-a-mario-style-platformer-with-the-phaser-editor/
-http://www.lessmilk.com/tutorial/flappy-bird-phaser-1
-
-via michaeld and lomaz
-http://kongregate.com/		(platteform)
-https://codecanyon.net/		(platteform)
-
-via drhays
-https://gamemechanicexplorer.com/#lighting-1
-
-
-via bitnefer on Game Boy
-http://gbdev.gg8.se/wiki/articles/Video_Display we can get it from google by googling gameboy tutorials
-http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf
-http://otakunozoku.com/RGBDSdocs/asm.htm <- this is specific to the assembler I use
-
-via twitter and also slack discussions
-http://sscaitournament.com/
-http://www.lexaloffle.com/pico-8.php	(??)
-thisisellian.com/
-https://javascriptobfuscator.com/
-https://jscrambler.com/en/
-https://www.discoverphaser.com/
-
-via terbe
-https://www.udemy.com/phaser-game-development/
-
-creating a phaser pi
-https://www.youtube.com/watch?v=CImyDBJSTsQ&t=121s
-http://www.thingiverse.com/thing:1779343
-
-via codevinsky
-https://hyfn.com/work/doritos-mix-arcade/
-
-via michaeld
-best game ever
-https://en.wikipedia.org/wiki/Comix_Zone
-
-via rich
-phaserquest.herokuapp.com
-
-via micsun-al
-http://slick-ui.com/#demo
-http://ezgui.ezelia.com/
+Sites to promote your games:
+http://www.fb.com/groups/ggdevs
+http://www.fb.com/groups/unity3dellinikikoinotita
+http://www.fb.com/groups/ThePCGamingMasterRace
+http://www.fb.com/groups/1655064838043362
+http://www.fb.com/groups/VideoGamePromo
+http://www.fb.com/groups/IndieGamingDevelopers
+http://www.fb.com/groups/156412141097759
+http://www.fb.com/groups/igc.dev
+http://www.fb.com/groups/indiegamedevelopersunshine
+http://www.fb.com/groups/1549224718628969
